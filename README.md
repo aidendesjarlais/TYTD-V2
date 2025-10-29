@@ -1,3 +1,7 @@
+# PLEASE BE AWARE THIS REPO IS [UNDERGOING RE-DEVELOPMENT](https://github.com/aidendesjarlais/TYTD-V2/tree/v2-api-development)
+
+-----------------------------------------
+-----------------------------------------
 # TYTD V2
  Repo for TYTD V2
 # https://aidendes.com/tytd
